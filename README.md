@@ -1,0 +1,2 @@
+# yamada_air_mobile_wimax
+YAMADA Air Mobile WiMAXの通信量表示をパケット数ではなくバイト数に置換するスクリプトです。
