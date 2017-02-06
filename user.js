@@ -9,7 +9,7 @@
 
 // パケットをバイトに変換する
 function packetsToBytes(packets) {
-    return (packets / 8 * 1024); // MBytes
+    return (packets / (8 * 1024)); // MBytes
 }
 
 // number クラスの要素を全部取得
